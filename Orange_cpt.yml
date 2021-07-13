@@ -1,6 +1,6 @@
 #enconding: utf-8
 execution:
-- concurrency: 1
+- concurrency: 10
   hold-for: 3m
   ramp-up: 2m
   scenario: sample
